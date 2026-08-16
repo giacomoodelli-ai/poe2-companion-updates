@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.5",
-  "releaseName": "PoE2 Companion 0.6.5",
+  "version": "0.6.6",
+  "releaseName": "PoE2 Companion 0.6.6",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Corretto il riavvio dopo l'aggiornamento su Windows. Il programma attende la chiusura completa, ritenta la copia dei file e riapre l'app anche se l'installazione incontra un errore. Aggiunto un registro diagnostico dell'ultimo aggiornamento.",
+  "notes": "Ripristinata la voce Aggiornamenti nel menu: App Center torna cliccabile e viene raccolto correttamente nella sezione Altro. Eliminato il riordino continuo della navigazione che poteva intercettare i clic.",
   "package": {
-    "size": 142271284,
-    "sha256": "DC4F52F9E15B19E82C7D82DA7BFC4FF06A9BA2198361F40407B5D3384447A83E",
+    "size": 142271336,
+    "sha256": "67DC7C97D00414472BCBBD6A3E7C1FFEDDF319E61DB5E106A4FA2B45CC3D44B2",
     "parts": [
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.6.5/PoE2-Companion-0.6.5.part01",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.6.5/PoE2-Companion-0.6.5.part02"
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.6.6/PoE2-Companion-0.6.6.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.6.6/PoE2-Companion-0.6.6.part02"
     ]
   }
 }
