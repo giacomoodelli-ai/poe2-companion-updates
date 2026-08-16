@@ -1,17 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.8.2",
-  "releaseName": "PoE2 Companion 0.8.2",
+  "version": "0.9.0",
+  "releaseName": "PoE2 Companion 0.9.0 · Stampede Titan",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Edizione Setup ottimizzata: corretti i clic intermittenti su testo e icone, caricamento moduli ordinato, observer e rendering ridotti, sincronizzazione overlay alleggerita e supporto Portable rimosso.",
+  "notes": "Nuova build Warrior ottimizzata 0.5 RotA: speed leveling Rolling Slam/Boneshatter → Leap Slam → Stampede, endgame Stampede Titan 2H Mace, gemme, gear, passive, Ascendancy, rotation boss e priorità budget/luxury completamente coordinate. Mantiene compatibilità con profilo e dati locali esistenti.",
   "package": {
-    "size": 144757641,
-    "sha256": "449781E884657AD80C63575E4399278E291517E225BAAAA0B202C040FA463601",
+    "size": 98761538,
+    "sha256": "317AC2B6B2A97DE986E0533A6E0966FC9BEA57D36F3D27D0DA69A0465592E57C",
     "parts": [
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.2/PoE2-Companion-0.8.2.part01",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.2/PoE2-Companion-0.8.2.part02",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.2/PoE2-Companion-0.8.2.part03"
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.9.0/PoE2-Companion-0.9.0.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.9.0/PoE2-Companion-0.9.0.part02"
     ]
   }
 }
