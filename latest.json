@@ -1,17 +1,25 @@
 {
   "schemaVersion": 1,
-  "version": "0.8.0",
-  "releaseName": "PoE2 Companion 0.8.0",
+  "version": "0.8.1",
+  "releaseName": "PoE2 Companion 0.8.1",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Aggiunto Build Studio local-first: libreria filtrabile, editor visuale, import/export e migrazione profili, Passive Planner, Gear Intelligence, Session Companion, onboarding, temi per classe, accessibilità e canali stabile/beta.",
+  "notes": "Corretto definitivamente l'aggiornamento Portable: sostituzione sicura del file originale, backup automatico, tentativi multipli, rollback e riavvio diretto. L'installer mantiene il flusso separato.",
   "package": {
-    "size": 144757462,
-    "sha256": "F7A4F60176EC319F4E32E6C287B995AD1A041A76ACB5757BB7ED5028ED3A8AC7",
+    "size": 144758002,
+    "sha256": "0AF3F55208455C150A1FB13301EB87ADF00975DDA3754353728D537BFD42BA15",
     "parts": [
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part01",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part02",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part03"
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.1/PoE2-Companion-0.8.1.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.1/PoE2-Companion-0.8.1.part02",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.1/PoE2-Companion-0.8.1.part03"
+    ]
+  },
+  "portable": {
+    "size": 90394472,
+    "sha256": "E10879C3D0E82754E24E35913C78878E0AAFCF432C0B106C5B7529EF8537AC86",
+    "parts": [
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.1/PoE2-Companion-0.8.1-Portable.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.1/PoE2-Companion-0.8.1-Portable.part02"
     ]
   }
 }
