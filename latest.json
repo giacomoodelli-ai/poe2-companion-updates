@@ -1,8 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.2",
-  "releaseName": "PoE2 Companion 0.6.2",
+  "version": "0.6.3",
+  "releaseName": "PoE2 Companion 0.6.3",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Nuova vista Ascendancy dedicata e sempre accessibile. Titan usa artwork ufficiale, percorso completo, nodi focalizzabili e priorità della build. Migliorato ulteriormente il Passive Tree grafico."
+  "notes": "Aggiunta installazione guidata: verifica nuova versione, conferma esplicita, backup locale, download con avanzamento, controllo SHA-256 e riavvio automatico. Include la vista Ascendancy dedicata.",
+  "package": {
+    "size": 142271408,
+    "sha256": "1B0143A0FE622511FD0A25F4153CE36F3884A33148C562F35A86B296EE20489B",
+    "parts": [
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.6.3/PoE2-Companion-0.6.3.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.6.3/PoE2-Companion-0.6.3.part02"
+    ]
+  }
 }
