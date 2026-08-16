@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.1",
-  "releaseName": "PoE2 Companion 0.6.1",
+  "version": "0.6.2",
+  "releaseName": "PoE2 Companion 0.6.2",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Aggiunto il pulsante Update sempre visibile nella barra laterale. Controllo automatico tramite manifest pubblico, Passive Tree con asset ufficiali per classe e analytics locali."
+  "notes": "Nuova vista Ascendancy dedicata e sempre accessibile. Titan usa artwork ufficiale, percorso completo, nodi focalizzabili e priorità della build. Migliorato ulteriormente il Passive Tree grafico."
 }
