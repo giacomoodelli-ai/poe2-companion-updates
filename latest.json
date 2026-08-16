@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "version": "0.6.0",
+  "releaseName": "PoE2 Companion 0.6.0",
+  "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
+  "publishedAt": "2026-08-16T00:00:00Z",
+  "notes": "Passive Tree con icone ufficiali e illustrazioni automatiche per classe. Run History e Run Analytics locali."
+}
