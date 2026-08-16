@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "0.8.0",
+  "releaseName": "PoE2 Companion 0.8.0 Beta",
+  "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
+  "publishedAt": "2026-08-16T00:00:00Z",
+  "notes": "Canale beta attivo. Questa build coincide con la stabile 0.8.0.",
+  "package": {
+    "size": 144757462,
+    "sha256": "F7A4F60176EC319F4E32E6C287B995AD1A041A76ACB5757BB7ED5028ED3A8AC7",
+    "parts": [
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part02",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part03"
+    ]
+  }
+}

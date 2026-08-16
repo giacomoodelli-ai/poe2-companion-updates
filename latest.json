@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "0.7.0",
-  "releaseName": "PoE2 Companion 0.7.0",
+  "version": "0.8.0",
+  "releaseName": "PoE2 Companion 0.8.0",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Major reliability e UX update: installer Windows e portable con icona ufficiale, rollback automatico degli aggiornamenti, verifica installazione e ripristino backup nell'App Center, ricerca nodi nel Passive Tree e Home con prossima mossa intelligente.",
+  "notes": "Aggiunto Build Studio local-first: libreria filtrabile, editor visuale, import/export e migrazione profili, Passive Planner, Gear Intelligence, Session Companion, onboarding, temi per classe, accessibilità e canali stabile/beta.",
   "package": {
-    "size": 144752107,
-    "sha256": "65009A641BAC13AB525395C5C5F288C56008E8EC0FABF3B913DE66D993B9A91E",
+    "size": 144757462,
+    "sha256": "F7A4F60176EC319F4E32E6C287B995AD1A041A76ACB5757BB7ED5028ED3A8AC7",
     "parts": [
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.7.0/PoE2-Companion-0.7.0.part01",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.7.0/PoE2-Companion-0.7.0.part02",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.7.0/PoE2-Companion-0.7.0.part03"
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part02",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.8.0/PoE2-Companion-0.8.0.part03"
     ]
   }
 }
