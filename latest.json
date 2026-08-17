@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.1",
-  "releaseName": "PoE2 Companion 0.9.1 · Restart Fix",
+  "version": "0.10.0",
+  "releaseName": "PoE2 Companion 0.10.0 · Pillar Speed Twink",
   "releaseUrl": "https://github.com/giacomoodelli-ai/poe2-warrior-guide/releases",
   "publishedAt": "2026-08-16T00:00:00Z",
-  "notes": "Correzione definitiva di Installa e riavvia: il pacchetto viene trattato come Setup Windows, l'helper resta disponibile durante la sostituzione dell'app, registra ogni fase e riapre l'eseguibile installato. Include la build Stampede Titan 0.9.0 e mantiene tutti i dati locali.",
+  "notes": "Modalità unica Pillar Speed Twink 1–65, progettata autonomamente: breakpoint oggetti, gestione Strength/Dex/Int, Storm Wave e ciclo Power Charge, Death Rush al 26, Runeforge fisico al 38 e protezione dal Runemaster Cold non coerente al 55. Nessuna modalità alternativa o consiglio endgame mescolato alla campagna.",
   "package": {
-    "size": 98761881,
-    "sha256": "11C354522ED7CDF4AAE60BFA22B2868E1F395E70A2E2A108F0870B49FDF004ED",
+    "size": 98762128,
+    "sha256": "E64512D0F3F2C6051DC637C764A3D5BF975CD83E5AF9730B5A19B5655B829939",
     "parts": [
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.9.1/PoE2-Companion-0.9.1.part01",
-      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.9.1/PoE2-Companion-0.9.1.part02"
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.10.0/PoE2-Companion-0.10.0.part01",
+      "https://raw.githubusercontent.com/giacomoodelli-ai/poe2-companion-updates/main/packages/0.10.0/PoE2-Companion-0.10.0.part02"
     ]
   }
 }
